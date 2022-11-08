@@ -19,8 +19,8 @@ void ArrayElements(string[] array)
     {
         if (array[i].Length <= 3)
         {
-            mas[i]=array[i];
-            Console.Write(" "+mas[i]);
+            mas[i] = array[i];
+            Console.Write(" " + mas[i]);
         }
     }
 }
