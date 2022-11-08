@@ -24,4 +24,4 @@ void ArrayElements(string[] array)
         }
     }
 }
-InitArray(array);
+ArrayElements(array);
